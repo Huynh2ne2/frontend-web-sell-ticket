@@ -5,7 +5,7 @@ export const adminmenu = [
             {
                 name: 'menu.admin.home', link: '/home',
             },
-        ],
+        ]
     },
     {
         name: 'menu.admin.manage-user',
